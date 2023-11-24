@@ -1,2 +1,2 @@
 # JXL-Logistics
-In progress work for company website for FedEx Ground Contractor
+In progress work for FedEx Ground Contractor's website
